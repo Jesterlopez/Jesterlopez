@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jester López</h1>
 <h3 align="center">Nicaraguan frontend developer, wanting to improve every day in what I know and learn new technologies.</h3>
 
-- 🔭 I’m currently working on ** Porfolio Personal **
+- 🔭 I’m currently working on **Porfolio Personal**
 
-- 🌱 I’m currently learning ** Next.js and Node.js **
+- 🌱 I’m currently learning **Next.js and Node.js**
 
-- 💬 Ask me about ** React, vue, WordPress, CSS, HTML. **
+- 💬 Ask me about **React, vue, WordPress, CSS, HTML.**
 
 - 📫 How to reach me **jesmark1999@gmail.com**
 
