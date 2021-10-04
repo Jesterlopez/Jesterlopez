@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Porfolio Personal**
 
-- 🌱 I’m currently learning **Next.js and Node.js**
+- 📖 I’m currently learning **Next.js and Node.js**
 
 - 💬 Ask me about **React, vue, WordPress, CSS, HTML.**
 
