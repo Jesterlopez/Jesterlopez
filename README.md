@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jester López</h1>
-<h3 align="center">A passionate frontend developer from Nicaragua.</h3>
+<h3 align="center">Nicaraguan frontend developer, wanting to improve every day in what I know and learn new technologies.</h3>
 
 - 🔭 I’m currently working on **Porfolio Personal**
 
