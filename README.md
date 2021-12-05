@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jester López</h1>
-<img align="right" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="500" height="300"/>
+<!-- <img align="right" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="500" height="300"/> -->
+<img align="right" src="https://user-images.githubusercontent.com/57335632/144763054-0b071b21-a789-424c-ba1c-f5cafbefbf8e.png" width="300" height="500"/>
+
+
+
 
 <p align="left">
   <h3>Nicaraguan frontend developer, wanting to improve every day in what I know and learn new technologies.</h3>
