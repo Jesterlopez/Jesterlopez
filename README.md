@@ -6,7 +6,7 @@
 
 
 <p align="left">
-  <h3>Nicaraguan frontend developer, wanting to improve every day in what I know and learn new technologies.</h3>
+  <h3>Nicaraguan frontend developer, wanting to improve every day in what I already know and learn new technologies.</h3>
 - 🔭 I’m currently working on **Porfolio Personal**
 
 - 📖 I’m currently learning **Next.js and Node.js**
