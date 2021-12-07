@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, vue, WordPress, CSS, HTML.**
 
-- 📫 How to reach me **jesmark1999@gmail.com**
+- 📫 How to reach me **<a href="mailto:jesmark1999@gmail.com">Jester López</a>**
 </p>
 
 ## Languages and Tools:
